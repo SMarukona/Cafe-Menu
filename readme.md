@@ -5,7 +5,7 @@ This is a project in freeCodeCAmp
 ### Links
 
 - Solution URL: [https://github.com/SMarukona/cafe-menu]
-- Live Site URL: [https://smarukona.github.io/cafe-menu/]
+- Live Site URL: [https://smarukona.github.io/Cafe-Menu/]
 
 ### Built with
 
